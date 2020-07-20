@@ -18,8 +18,11 @@ I am fascinated towards ML so I am just trying to learn ML basics now.
 * Twitter: [@Amrit_Ranjan789](https://twitter.com/Amrit_Ranjan789)
 * My Site: https://ranjanamrit.github.io
 * LinkedIn:[Amrit Ranjan](https://www.linkedin.com/in/amrit-ranjan-013a451a9/)
+
+<br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjanamrit&show_icons=true&theme=dracula)"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ranjanamrit&show_icons=true&theme=radical"/>
 </div>
 
 
