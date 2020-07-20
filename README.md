@@ -15,9 +15,7 @@ I am trying to get better at the whole domain of web development. Practising MER
 I am fascinated towards ML so I am just trying to learn ML basics now.
 
 ### ☕ Get in touch 
-* Twitter: [@Amrit_Ranjan789](https://twitter.com/Amrit_Ranjan789)
-* My Site: https://ranjanamrit.github.io
-* LinkedIn:[Amrit Ranjan](https://www.linkedin.com/in/amrit-ranjan-013a451a9/)
+<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"><a href="https://twitter.com/Amrit_Ranjan789"></a></img>  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/amrit-ranjan-013a451a9/"></a></img> <img src="https://img.shields.io/badge/website-%233DA639.svg?&style=for-the-badge&logo=opensourceinitiative&logoColor=white"><a href="https://ranjanamrit.github.io"></a></img>
 
 <br>
 
