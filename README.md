@@ -19,7 +19,7 @@ I am fascinated towards ML so I am just trying to learn ML basics now.
 * My Site: https://ranjanamrit.github.io
 * LinkedIn:[Amrit Ranjan](https://www.linkedin.com/in/amrit-ranjan-013a451a9/)
 <div align="center">
-  <img src="![Amrit's github stats](https://github-readme-stats.vercel.app/api?username=ranjanamrit&show_icons=true&theme=dracula)"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ranjanamrit&show_icons=true&theme=dracula)"/>
 </div>
 
 
