@@ -6,7 +6,7 @@ I started my coding career from class XI from C++. Computers and technology alwa
 
 ### What I am up to right now 👨‍💻 
 
-* I am trying to do some competitive coding in C programming language.
+* I am trying to do some competitive coding in [CodeChef](https://www.codechef.com/users/amrit_ranjan).
 
 ### What I am currently learning 😁
 
