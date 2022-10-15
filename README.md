@@ -1,12 +1,11 @@
 # Hi, I am Amrit 👋
 
-I am a CS & systems engineering junior at [KIIT University](https://kiit.ac.in/)
+I am a CS & systems engineering senior at [KIIT University](https://kiit.ac.in/)
 
 I started my coding career from class XI from C++. Computers and technology always attracted me towards itself. In my childhood days I always used to wonder how these websites are created and handled, how big companies like Google and Facebook is managed etc. These several thought pushed me towards my dream to become a Computer engineer.
 
 ### What I am up to right now 👨‍💻 
 
-* I am trying to do some competitive coding in [CodeChef](https://www.codechef.com/users/amrit_ranjan).
 * Mentoring Students in the field of Full Stack Web Development.
 
 ### What I am currently learning 😁
